@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WLCSP49_330X330X58.dra                        )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jan 13 00:03:09 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/l0op/Documents/OrCADLibraryBuilder/Examples/Packages/WLCSP49_330X330X58/WLCSP49_330X330X58_Allegro
+    Name      = wlcsp49_330x330x58.psm
+    User      = l0op
+    Machine   = L0OP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
